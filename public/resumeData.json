@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Abhinav Jangra",
+    "occupation": "Cloud DevOps Specialist",
+    "description": "I live in CLOUD",
+    "image": "profilepic (2).jpg",
+    "bio": "As a detail-oriented and results-driven professional, I specialize in Cloud DevOps, data analysis, and full-stack development, leveraging a strong technical foundation to deliver innovative solutions. My experience includes deploying scalable applications using Azure Kubernetes Service (AKS), Terraform, Docker, and microservices architecture. With a proven track record in building CI/CD pipelines and automating workflows, I am passionate about solving complex challenges and optimizing systems for impactful results in cloud environments.",
+    "contactmessage": "Get in touch with me",
+    "email": "abhinaavv007@gmail.com",
+    "phone": "+1 (753) 881-0047",
+    "address": {
+      "street": "176 Meadowlands Dr W",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "zip": "K2G 2S6"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhinav3023/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/itssplash",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Algonquin College",
+        "degree": "Cloud Development and Operations - Graduate Certificate",
+        "graduated": "Expected Apr 2025",
+        "description": "Dean's Honors List: GPA 3.75/4.0"
+      },
+      {
+        "school": "Algonquin College",
+        "degree": "Business Intelligence System Infrastructure - Graduate Certificate",
+        "graduated": "Apr 2024",
+        "description": "Dean's Honors List: GPA 3.75/4.0"
+      },
+      {
+        "school": "Chitkara University",
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "graduated": "Jun 2021",
+        "description": "Graduated with 9.1/10.0 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "eClerx Services",
+        "title": "Senior Analyst",
+        "years": "Jul 2021 - Aug 2023",
+        "description": "Automated weekly performance tracking and campaign workflows using SQL and Excel macros, reducing manual effort by 20%. Delivered high-priority campaigns under tight deadlines with 100% on-time delivery. Improved data extraction processes using SQL and trained 30+ team members, boosting operational efficiency by 20%."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Azure DevOps",
+        "level": "95%"
+      },
+      {
+        "name": "CI/CD Pipelines",
+        "level": "90%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "90%"
+      },
+      {
+        "name": "Terraform",
+        "level": "85%"
+      },
+      {
+        "name": "Docker",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-commerce Platform on AKS (Best Buy App)",
+        "category": "Cloud Computing",
+        "description": "Developed and deployed a scalable e-commerce platform on Azure Kubernetes Service (AKS) using microservices architecture, integrating RabbitMQ, MongoDB, and AI services to streamline order processing and improve user experience.",
+        "image": "bestbuyapp.png",
+        "url": "https://github.com/itssplash/BestBuyApp"
+      },
+      {
+        "title": "VMware to Azure Migration",
+        "category": "Cloud Migration",
+        "description": "Executed the migration of a VMware-hosted application to Azure using Azure Migrate, ensuring seamless replication, deployment, and post-migration validation.",
+        "image": "vmtoazure.png",
+        "url": "https://github.com/itssplash/CST8913/blob/main/Assignment2/Assignment2.md"
+      },
+      {
+        "title": "AI-Assisted Business Intelligence (Capstone Project)",
+        "category": "Data Analytics",
+        "description": "Developed a web application leveraging GPT-3 and PostgreSQL to automate data analysis for Canada Post, enabling real-time insights and maintaining operational cost efficiency.",
+        "image": "canadapost.jpeg",
+        "url": "https://github.com/surajmandalcell/AI-Powered-Data-Insights-Bot"
+      },
+      {
+        "title": "Music Player Project",
+        "category": "Full Stack Development",
+        "description": "Created a feature-rich music player with a sleek front-end interface using React and backend integration with Node.js, focusing on real-time music streaming and playlist management.",
+        "image": "music.jpg",
+        "url": "https://github.com/itssplash/Music_Player_Project"
+      },
+      {
+        "title": "CST8916 Final Project",
+        "category": "Cloud Architecture",
+        "description": "Designed a comprehensive cloud-native architecture that implements best practices for scalability, resilience, and CI/CD automation in Azure.",
+        "image": "iot.png",
+        "url": "https://github.com/itssplash/CST8916-Final"
+      }
+    ]
+  }
+}
