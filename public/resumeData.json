@@ -33,7 +33,7 @@
       {
         "school": "Algonquin College",
         "degree": "Cloud Development and Operations - Graduate Certificate",
-        "graduated": "Expected Apr 2025",
+        "graduated": "Jan 2025",
         "description": "Dean's Honors List: GPA 3.75/4.0"
       },
       {
@@ -54,7 +54,7 @@
         "company": "eClerx Services",
         "title": "Senior Analyst",
         "years": "Jul 2021 - Aug 2023",
-        "description": "Automated weekly performance tracking and campaign workflows using SQL and Excel macros, reducing manual effort by 20%. Delivered high-priority campaigns under tight deadlines with 100% on-time delivery. Improved data extraction processes using SQL and trained 30+ team members, boosting operational efficiency by 20%."
+        "description": "● Migrated batch and historical data processing from Teradata and Oracle to Azure Data Lake and Synapse, leveraging PySpark, ADF, and Delta Lake, improving data accuracy and retrieval time by 10%.\n● Designed and automated data pipelines and Control-M job scheduling for incremental big data processing in Azure Databricks, reducing manual effort by 5%.\n● Developed PySpark frameworks for transformations, optimized data ingestion, and enabled seamless customer notifications via Logic Apps and ADF.\n● Automated SQL-to-PySpark transformations and data validation scripts, cutting manual workload by 2 months and improving debugging efficiency by 12%.\n● Collaborated with Agile teams to align migration efforts with strategic goals, delivering impactful, scalable solutions."
       }
     ],
     "skills": [
@@ -88,6 +88,10 @@
       },
       {
         "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
         "level": "80%"
       }
     ]
